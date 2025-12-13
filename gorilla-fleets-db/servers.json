@@ -1,1 +1,11 @@
-
+{
+  "servers": [
+    {
+      "id": "hangout-1",
+      "fleetId": "hangout",
+      "name": "Hangout Server 1",
+      "roomCode": "HANGOUT1",
+      "active": true
+    }
+  ]
+}
