@@ -1,1 +1,14 @@
-
+{
+  "users": [
+    {
+      "discordId": "123456789",
+      "role": "owner",
+      "fleets": ["hangout", "sports"]
+    },
+    {
+      "discordId": "987654321",
+      "role": "dev",
+      "fleets": ["sports"]
+    }
+  ]
+}
