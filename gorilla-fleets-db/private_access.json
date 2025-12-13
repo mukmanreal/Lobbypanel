@@ -1,1 +1,6 @@
-
+{
+  "sports": [
+    "PLAYFAB_ID_1",
+    "PLAYFAB_ID_2"
+  ]
+}
