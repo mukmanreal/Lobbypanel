@@ -1,1 +1,14 @@
-
+{
+  "fleets": [
+    {
+      "id": "hangout",
+      "name": "Hangout",
+      "visibility": "public"
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "visibility": "private"
+    }
+  ]
+}
