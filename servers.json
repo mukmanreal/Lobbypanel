@@ -13,7 +13,10 @@
       "fleetId": "test",
       "name": "other",
       "roomCode": "321",
-      "active": true
+      "active": true,
+      "allowedPlayers": [
+        "1574F0B1BFD5BB1F"
+      ]
     }
   ]
 }
