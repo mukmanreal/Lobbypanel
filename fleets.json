@@ -1,0 +1,9 @@
+{
+  "fleets": [
+    {
+      "id": "test",
+      "name": "test",
+      "visibility": "public"
+    }
+  ]
+}
