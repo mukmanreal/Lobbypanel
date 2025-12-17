@@ -5,7 +5,10 @@
       "role": "dev",
       "fleets": [
         "test"
-      ]
+      ],
+      "fleetRoles": {
+        "test": "admin"
+      }
     }
   ]
 }
