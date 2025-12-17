@@ -7,6 +7,13 @@
       "roomCode": "123",
       "active": true,
       "visibility": "public"
+    },
+    {
+      "id": "test-xhprr",
+      "fleetId": "test",
+      "name": "other",
+      "roomCode": "321",
+      "active": true
     }
   ]
 }
