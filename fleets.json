@@ -4,6 +4,11 @@
       "id": "test",
       "name": "test",
       "visibility": "public"
+    },
+    {
+      "id": "testpriv",
+      "name": "testpriv",
+      "visibility": "private"
     }
   ]
 }
