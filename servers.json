@@ -1,0 +1,11 @@
+{
+  "servers": [
+    {
+      "id": "test-82p8w",
+      "fleetId": "test",
+      "name": "hi",
+      "roomCode": "123",
+      "active": true
+    }
+  ]
+}
