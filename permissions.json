@@ -6,9 +6,7 @@
       "fleets": [
         "test"
       ],
-      "fleetRoles": {
-        "test": "admin"
-      }
+      "fleetRoles": {}
     }
   ]
 }
