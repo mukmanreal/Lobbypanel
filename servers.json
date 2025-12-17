@@ -14,7 +14,8 @@
       "name": "other",
       "roomCode": "321",
       "active": true,
-      "allowedPlayers": []
+      "allowedPlayers": [],
+      "visibility": "private"
     }
   ]
 }
