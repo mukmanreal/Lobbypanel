@@ -5,7 +5,7 @@
       "fleetId": "test",
       "name": "hi",
       "roomCode": "123",
-      "active": true
+      "active": false
     }
   ]
 }
