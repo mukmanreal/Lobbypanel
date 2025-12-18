@@ -22,7 +22,7 @@
       "name": "test2",
       "visibility": "private",
       "imageUrl": "",
-      "online": true
+      "online": false
     },
     {
       "id": "tes3",
