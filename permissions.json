@@ -7,7 +7,7 @@
         "test"
       ],
       "fleetRoles": {
-        "test": "moderator"
+        "test": "admin"
       }
     }
   ]
