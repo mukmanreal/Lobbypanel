@@ -23,6 +23,13 @@
       "visibility": "private",
       "imageUrl": "",
       "online": true
+    },
+    {
+      "id": "tes3",
+      "name": "tes3",
+      "visibility": "private",
+      "imageUrl": "",
+      "online": true
     }
   ]
 }
