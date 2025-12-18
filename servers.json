@@ -13,7 +13,7 @@
       "fleetId": "test",
       "name": "other",
       "roomCode": "321",
-      "active": true,
+      "active": false,
       "allowedPlayers": [],
       "visibility": "public"
     }
