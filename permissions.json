@@ -9,6 +9,12 @@
       "fleetRoles": {
         "test": "moderator"
       }
+    },
+    {
+      "discordId": "1436864332842532894",
+      "role": "dev",
+      "fleets": [],
+      "fleetRoles": {}
     }
   ]
 }
