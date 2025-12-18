@@ -9,6 +9,11 @@
       "id": "testpriv",
       "name": "testpriv",
       "visibility": "private"
+    },
+    {
+      "id": "other-pub",
+      "name": "other pub",
+      "visibility": "public"
     }
   ]
 }
