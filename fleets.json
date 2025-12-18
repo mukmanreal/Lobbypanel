@@ -5,7 +5,7 @@
       "name": "test",
       "visibility": "public",
       "imageUrl": "https://i.imgur.com/1uAaAGn.png",
-      "online": true
+      "online": false
     },
     {
       "id": "testpriv",
