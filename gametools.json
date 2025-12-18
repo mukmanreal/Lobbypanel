@@ -1,7 +1,9 @@
 {
   "test": {
     "kill": {
-      "tags": []
+      "tags": [
+        "yellow name"
+      ]
     }
   }
 }
