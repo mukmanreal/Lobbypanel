@@ -6,7 +6,9 @@
       "fleets": [
         "test"
       ],
-      "fleetRoles": {}
+      "fleetRoles": {
+        "test": "moderator"
+      }
     }
   ]
 }
