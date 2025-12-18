@@ -16,6 +16,13 @@
       "id": "other-pub",
       "name": "other pub",
       "visibility": "public"
+    },
+    {
+      "id": "test2",
+      "name": "test2",
+      "visibility": "private",
+      "imageUrl": "",
+      "online": true
     }
   ]
 }
