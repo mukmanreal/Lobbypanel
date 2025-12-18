@@ -2,7 +2,7 @@
   "users": [
     {
       "discordId": "1361146748449460375",
-      "role": "dev",
+      "role": null,
       "fleets": [
         "test"
       ],
