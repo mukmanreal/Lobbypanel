@@ -3,7 +3,9 @@
     {
       "id": "test",
       "name": "test",
-      "visibility": "public"
+      "visibility": "public",
+      "imageUrl": "https://i.imgur.com/1uAaAGn.png",
+      "online": true
     },
     {
       "id": "testpriv",
