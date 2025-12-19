@@ -5,5 +5,10 @@
         "yellow name"
       ]
     }
+  },
+  "tes3": {
+    "testid": {
+      "tags": []
+    }
   }
 }
