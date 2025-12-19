@@ -16,6 +16,13 @@
       "active": true,
       "allowedPlayers": [],
       "visibility": "public"
+    },
+    {
+      "id": "plaza-wjujw",
+      "fleetId": "plaza",
+      "name": "PLAZA 1",
+      "roomCode": "PLAZA1",
+      "active": true
     }
   ]
 }
