@@ -4,10 +4,9 @@
       "discordId": "1361146748449460375",
       "role": null,
       "fleets": [
-        "test"
+        "plaza"
       ],
       "fleetRoles": {
-        "test": "moderator",
         "plaza": "moderator"
       }
     },
