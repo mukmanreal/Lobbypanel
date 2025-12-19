@@ -7,7 +7,8 @@
         "test"
       ],
       "fleetRoles": {
-        "test": "moderator"
+        "test": "moderator",
+        "plaza": "moderator"
       }
     },
     {
