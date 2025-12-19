@@ -1,23 +1,6 @@
 {
   "servers": [
     {
-      "id": "test-82p8w",
-      "fleetId": "test",
-      "name": "hi",
-      "roomCode": "123",
-      "active": true,
-      "visibility": "public"
-    },
-    {
-      "id": "test-xhprr",
-      "fleetId": "test",
-      "name": "other",
-      "roomCode": "321",
-      "active": true,
-      "allowedPlayers": [],
-      "visibility": "public"
-    },
-    {
       "id": "plaza-wjujw",
       "fleetId": "plaza",
       "name": "PLAZA 1",
