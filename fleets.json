@@ -1,14 +1,6 @@
 {
   "fleets": [
     {
-      "id": "test",
-      "name": "test",
-      "visibility": "public",
-      "imageUrl": "https://i.imgur.com/1uAaAGn.png",
-      "online": true,
-      "boardImageUrl": ""
-    },
-    {
       "id": "plaza",
       "name": "Plaza",
       "visibility": "public",
