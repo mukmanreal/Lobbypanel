@@ -8,7 +8,10 @@
   },
   "tes3": {
     "testid": {
-      "tags": []
+      "tags": [
+        "purple name",
+        "ban"
+      ]
     }
   }
 }
