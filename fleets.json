@@ -7,6 +7,14 @@
       "imageUrl": "https://i.imgur.com/1uAaAGn.png",
       "online": true,
       "boardImageUrl": ""
+    },
+    {
+      "id": "plaza",
+      "name": "Plaza",
+      "visibility": "public",
+      "imageUrl": "",
+      "boardImageUrl": "",
+      "online": true
     }
   ]
 }
