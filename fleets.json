@@ -12,13 +12,6 @@
       "id": "testpriv",
       "name": "testpriv",
       "visibility": "private"
-    },
-    {
-      "id": "test2",
-      "name": "test2",
-      "visibility": "private",
-      "imageUrl": "",
-      "online": false
     }
   ]
 }
