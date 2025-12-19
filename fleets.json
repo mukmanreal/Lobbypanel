@@ -7,11 +7,6 @@
       "imageUrl": "https://i.imgur.com/1uAaAGn.png",
       "online": true,
       "boardImageUrl": ""
-    },
-    {
-      "id": "testpriv",
-      "name": "testpriv",
-      "visibility": "private"
     }
   ]
 }
