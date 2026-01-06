@@ -7,6 +7,14 @@
       "imageUrl": "https://i.imgur.com/1uAaAGn.png",
       "boardImageUrl": "",
       "online": true
+    },
+    {
+      "id": "prive-test",
+      "name": "Prive test",
+      "visibility": "private",
+      "imageUrl": "",
+      "boardImageUrl": "",
+      "online": true
     }
   ]
 }
