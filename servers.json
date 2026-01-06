@@ -6,7 +6,7 @@
       "name": "PLAZA 1",
       "roomCode": "PLAZA1",
       "active": true,
-      "visibility": "private"
+      "visibility": "public"
     },
     {
       "id": "plaza-pf1mt",
