@@ -1,3 +1,10 @@
 {
-
+  "fleets": [
+    {
+      "fleetId": "plaza",
+      "accessids": [
+        "1574F0B1BFD5BB1F"
+      ]
+    }
+  ]
 }
