@@ -6,6 +6,13 @@
       "name": "PLAZA 1",
       "roomCode": "PLAZA1",
       "active": true
+    },
+    {
+      "id": "plaza-pf1mt",
+      "fleetId": "plaza",
+      "name": "PLAZA PRIVATE",
+      "roomCode": "PLAVPRIV",
+      "active": true
     }
   ]
 }
