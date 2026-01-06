@@ -13,7 +13,7 @@
       "name": "PLAZA PRIVATE",
       "roomCode": "PLAVPRIV",
       "active": true,
-      "visibility": "public",
+      "visibility": "private",
       "allowedPlayers": [
         "1574F0B1BFD5BB1F"
       ]
