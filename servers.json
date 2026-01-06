@@ -15,7 +15,9 @@
       "roomCode": "PLAVPRIV",
       "active": true,
       "visibility": "private",
-      "allowedPlayers": []
+      "allowedPlayers": [
+        "1574F0B1BFD5BB1F"
+      ]
     }
   ]
 }
