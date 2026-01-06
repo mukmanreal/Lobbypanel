@@ -12,7 +12,8 @@
       "fleetId": "plaza",
       "name": "PLAZA PRIVATE",
       "roomCode": "PLAVPRIV",
-      "active": true
+      "active": true,
+      "visibility": "private"
     }
   ]
 }
