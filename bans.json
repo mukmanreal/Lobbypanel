@@ -1,3 +1,12 @@
 {
-
+  "bans": [
+    {
+      "playfabId": "234",
+      "reason": "234",
+      "expiresAt": "2026-01-07T01:07",
+      "addedBy": "751184524007702650",
+      "addedAt": "2026-01-06T07:07:41.547Z"
+    }
+  ],
+  "fleetId": "plaza"
 }
