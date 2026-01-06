@@ -17,13 +17,6 @@
       "allowedPlayers": [
         "1574F0B1BFD5BB1F"
       ]
-    },
-    {
-      "id": "plaza-yhxxu",
-      "fleetId": "plaza",
-      "name": "test",
-      "roomCode": "test",
-      "active": true
     }
   ]
 }
