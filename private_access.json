@@ -6,6 +6,12 @@
         "1574F0B1BFD5BB1F",
         "48185E6DEC4B0AF0"
       ]
+    },
+    {
+      "fleetId": "prive-test",
+      "accessids": [
+        "48185E6DEC4B0AF0"
+      ]
     }
   ]
 }
