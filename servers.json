@@ -17,6 +17,14 @@
       "allowedPlayers": [
         "1574F0B1BFD5BB1F"
       ]
+    },
+    {
+      "id": "plaza-ejpe5",
+      "fleetId": "plaza",
+      "visibility": "public",
+      "name": "test",
+      "roomCode": "test",
+      "active": true
     }
   ]
 }
