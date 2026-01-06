@@ -5,7 +5,8 @@
       "fleetId": "plaza",
       "name": "PLAZA 1",
       "roomCode": "PLAZA1",
-      "active": true
+      "active": true,
+      "visibility": "private"
     },
     {
       "id": "plaza-pf1mt",
