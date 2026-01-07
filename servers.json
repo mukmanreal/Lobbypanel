@@ -18,6 +18,14 @@
       "allowedPlayers": [
         "1574F0B1BFD5BB1F"
       ]
+    },
+    {
+      "id": "plaza-q6sx3",
+      "fleetId": "plaza",
+      "visibility": "public",
+      "name": "PLAZA 2",
+      "roomCode": "PLAZA2",
+      "active": true
     }
   ]
 }
