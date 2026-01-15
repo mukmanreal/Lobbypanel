@@ -2,7 +2,8 @@
   "plaza": {
     "1574F0B1BFD5BB1F": {
       "tags": [
-        "kick_player"
+        "kick_player",
+        "global_voip"
       ]
     }
   }
