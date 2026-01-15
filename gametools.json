@@ -2,11 +2,7 @@
   "plaza": {
     "1574F0B1BFD5BB1F": {
       "tags": [
-        "green_name",
-        "purple_name",
-        "kick_player",
-        "ban_player",
-        "global_voip"
+        "kick_player"
       ]
     }
   }
