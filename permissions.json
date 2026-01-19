@@ -15,6 +15,12 @@
       "role": "dev",
       "fleets": [],
       "fleetRoles": {}
+    },
+    {
+      "discordId": "774279060162871306",
+      "role": "dev",
+      "fleets": [],
+      "fleetRoles": {}
     }
   ]
 }
