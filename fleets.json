@@ -6,7 +6,8 @@
       "visibility": "public",
       "imageUrl": "https://i.imgur.com/1uAaAGn.png",
       "boardImageUrl": "https://i.imgur.com/JB9uXfr.png",
-      "online": true
+      "online": true,
+      "boardMiniImageUrl": "https://i.imgur.com/1uAaAGn.png"
     },
     {
       "id": "prive-test",
