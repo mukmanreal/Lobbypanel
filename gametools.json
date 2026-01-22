@@ -12,7 +12,9 @@
     {
       "fleetId": "plaza",
       "playerId": "1574F0B1BFD5BB1F35345",
-      "tags": []
+      "tags": [
+        "purple_name"
+      ]
     }
   ]
 }
