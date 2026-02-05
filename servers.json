@@ -26,6 +26,14 @@
       "name": "PLAZA 2",
       "roomCode": "PLAZA2",
       "active": true
+    },
+    {
+      "id": "prive-test-qngrx",
+      "fleetId": "prive-test",
+      "visibility": "public",
+      "name": "TEST",
+      "roomCode": "TEST11",
+      "active": true
     }
   ]
 }
