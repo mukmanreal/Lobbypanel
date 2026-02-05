@@ -11,7 +11,9 @@
     {
       "fleetId": "globalserver",
       "playerId": "48185E6DEC4B0AF0",
-      "tags": []
+      "tags": [
+        "purple_name"
+      ]
     }
   ]
 }
