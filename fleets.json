@@ -16,6 +16,15 @@
       "imageUrl": "",
       "boardImageUrl": "",
       "online": true
+    },
+    {
+      "id": "globalserver",
+      "name": "GlobalServer",
+      "visibility": "private",
+      "imageUrl": "",
+      "boardImageUrl": "",
+      "boardMiniImageUrl": "",
+      "online": true
     }
   ]
 }
