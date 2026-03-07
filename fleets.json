@@ -43,6 +43,15 @@
       "boardImageUrl": "",
       "boardMiniImageUrl": "",
       "online": true
+    },
+    {
+      "id": "community-testing",
+      "name": "Community Testing",
+      "visibility": "private",
+      "imageUrl": "",
+      "boardImageUrl": "",
+      "boardMiniImageUrl": "",
+      "online": true
     }
   ]
 }
