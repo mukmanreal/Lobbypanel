@@ -10,14 +10,6 @@
       "boardMiniImageUrl": "https://i.imgur.com/lTqRYW2.png"
     },
     {
-      "id": "prive-test",
-      "name": "Prive test",
-      "visibility": "private",
-      "imageUrl": "",
-      "boardImageUrl": "",
-      "online": true
-    },
-    {
       "id": "globalserver",
       "name": "GlobalServer",
       "visibility": "private",
