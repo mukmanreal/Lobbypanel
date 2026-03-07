@@ -25,6 +25,15 @@
       "boardImageUrl": "",
       "boardMiniImageUrl": "",
       "online": true
+    },
+    {
+      "id": "basketball",
+      "name": "Basketball",
+      "visibility": "public",
+      "imageUrl": "",
+      "boardImageUrl": "",
+      "boardMiniImageUrl": "",
+      "online": true
     }
   ]
 }
