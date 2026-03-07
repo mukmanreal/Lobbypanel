@@ -26,9 +26,7 @@
       "discordId": "905608459775528970",
       "role": null,
       "fleets": [],
-      "fleetRoles": {
-        "basketball": "admin"
-      }
+      "fleetRoles": {}
     }
   ]
 }
