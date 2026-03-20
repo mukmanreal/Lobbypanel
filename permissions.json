@@ -35,7 +35,7 @@
       "role": null,
       "fleets": [],
       "fleetRoles": {
-        "plaza": "moderator"
+        "plaza": "admin"
       }
     }
   ]
