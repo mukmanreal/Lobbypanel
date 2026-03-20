@@ -34,9 +34,7 @@
       "discordId": "1272766694552637452",
       "role": null,
       "fleets": [],
-      "fleetRoles": {
-        "plaza": "admin"
-      }
+      "fleetRoles": {}
     }
   ]
 }
